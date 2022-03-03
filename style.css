@@ -1,0 +1,93 @@
+.hlavicka {
+    background-color: #533944;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    }
+
+.foto-hlavicka {
+    width: 180px;
+    float: right;
+    position: sticky;
+    margin-left: 0 0 30px 30px;
+    border-style: double;
+    border-width: 5px;
+    border-color: #473d40;
+    }
+
+body {
+    color: #473d40;
+    background-color: #fff1f7;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: left;
+       
+}
+
+
+h1 {
+    color:rgb(253, 254, 255);
+    text-align: center;       
+}
+
+h2 {
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0;
+    display: block;
+    font-weight: bold;
+    text-decoration-line: underline;
+        
+}
+
+h4 {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+
+}
+
+section {
+    padding: 20px;
+    overflow: auto;
+    
+
+}
+
+
+.zakladniinformace p {
+    padding: 10px;
+    margin: 30px;
+    float: left;
+        
+}
+
+.zakladniinformace a {
+    color: #473d40;
+}
+
+.vzdelani {
+    background-color: #f8dae6;
+    background-position: center;
+    background-size: cover; 
+}
+
+.jazyky {
+    background-color: #f8dae6;
+    background-position: center;
+    background-size: cover; 
+}
+.paticka a {
+    color: rgb(253, 254, 255);
+}
+
+.paticka {
+    background-color: #533944;
+    background-size: cover;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(253, 254, 255);
+       
+}
